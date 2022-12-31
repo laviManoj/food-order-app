@@ -11,7 +11,7 @@ export default function Home() {
 
 
       <Head>
-        <title>Pizza Restaurant i9n Shivamogga</title>
+        <title>Food Order App</title>
         <meta name="description" content="Best pizza shop in town" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
